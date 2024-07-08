@@ -5,3 +5,5 @@
 /WebApi/.vs/WebApi
 /WebApi/WebApi/obj
 /WebApi/WebApi/bin/Debug/net6.0
+/WebApi/TestProject/bin/Debug/net6.0
+/WebApi/TestProject/obj
